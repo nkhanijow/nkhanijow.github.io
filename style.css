@@ -130,3 +130,9 @@ body{
   opacity: 1;
   pointer-events: auto;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
